@@ -1,1 +1,1 @@
-i fucking hate thiss script
+fjulku.
