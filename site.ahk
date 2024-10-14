@@ -4,7 +4,7 @@
 url := "https://github.com/ffedex/idk-im-bored/raw/refs/heads/main/bored.txt"
 
 ; Wait for a moment to ensure the user has focused on the desired window
-Sleep 1000  ; Wait for 1 second
+Sleep 1000  ; Wait for 1 second (correct usage with a space)
 
 ; Type the URL
 Send, %url%
