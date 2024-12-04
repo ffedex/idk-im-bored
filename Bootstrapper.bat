@@ -1,4 +1,7 @@
 @echo off
+
+title Bootstrapper.exe
+
 chcp 65001 > nul
 cls
 
